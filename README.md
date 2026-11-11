@@ -18,18 +18,18 @@ python scripts/digest.py
 <!-- digest:start -->
 ### Latest: [2026-11-11](archive/2026/11/2026-11-11.md)
 
-Top 10 of 34 stories so far, last updated 2026-11-11 10:19 UTC. **13** days archived.
+Top 10 of 60 stories so far, last updated 2026-11-11 17:40 UTC. **13** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
 | 1 | [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) <sub>docodethatmatters.com</sub> | 947 | [340](https://news.ycombinator.com/item?id=50441707) |
 | 2 | [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) <sub>neil.fraser.name</sub> | 839 | [184](https://news.ycombinator.com/item?id=50442736) |
-| 3 | [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) <sub>deepmind.google</sub> | 636 | [185](https://news.ycombinator.com/item?id=50439193) |
-| 4 | [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/) <sub>evanxmerz.com</sub> | 554 | [525](https://news.ycombinator.com/item?id=50438318) |
-| 5 | [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) <sub>theautopian.com</sub> | 475 | [315](https://news.ycombinator.com/item?id=50445401) |
-| 6 | [Starlink Mini 2](https://starlink.com/mini-2) <sub>starlink.com</sub> | 414 | [413](https://news.ycombinator.com/item?id=50444129) |
-| 7 | [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) <sub>vulncheck.com</sub> | 400 | [192](https://news.ycombinator.com/item?id=50447074) |
-| 8 | [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) <sub>lwn.net</sub> | 400 | [229](https://news.ycombinator.com/item?id=50443824) |
-| 9 | [Val Town is winding down](https://blog.val.town/winding-down) <sub>blog.val.town</sub> | 384 | [95](https://news.ycombinator.com/item?id=50443427) |
-| 10 | [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) <sub>github.com</sub> | 368 | [111](https://news.ycombinator.com/item?id=50443812) |
+| 3 | [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya) <sub>pietromiotti.com</sub> | 728 | [271](https://news.ycombinator.com/item?id=50452455) |
+| 4 | [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) <sub>deepmind.google</sub> | 636 | [185](https://news.ycombinator.com/item?id=50439193) |
+| 5 | [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/) <sub>evanxmerz.com</sub> | 554 | [525](https://news.ycombinator.com/item?id=50438318) |
+| 6 | [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) <sub>theautopian.com</sub> | 544 | [376](https://news.ycombinator.com/item?id=50445401) |
+| 7 | [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/) <sub>9to5mac.com</sub> | 458 | [475](https://news.ycombinator.com/item?id=50446520) |
+| 8 | [Starlink Mini 2](https://starlink.com/mini-2) <sub>starlink.com</sub> | 414 | [413](https://news.ycombinator.com/item?id=50444129) |
+| 9 | [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) <sub>vulncheck.com</sub> | 400 | [192](https://news.ycombinator.com/item?id=50447074) |
+| 10 | [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) <sub>lwn.net</sub> | 400 | [229](https://news.ycombinator.com/item?id=50443824) |
 <!-- digest:end -->
