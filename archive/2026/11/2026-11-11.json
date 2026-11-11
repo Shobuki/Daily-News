@@ -1,183 +1,215 @@
 {
   "date": "2026-11-11",
-  "updated_at": "2026-11-11T06:22:37+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-11T10:19:37+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50441707,
       "title": "Smart home devices should work without the internet",
       "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "points": 835,
-      "comments": 298,
+      "points": 947,
+      "comments": 340,
       "by": "skittleson"
     },
     {
       "id": 50442736,
       "title": ".name Grandfathered",
       "url": "https://neil.fraser.name/news/2026/11/10/",
-      "points": 756,
-      "comments": 169,
+      "points": 839,
+      "comments": 184,
       "by": "p4bl0"
     },
     {
       "id": 50439193,
       "title": "AlphaProof Code",
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "points": 606,
-      "comments": 181,
+      "points": 636,
+      "comments": 185,
       "by": "ilreb"
     },
     {
       "id": 50438318,
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "points": 467,
-      "comments": 457,
+      "points": 554,
+      "comments": 525,
       "by": "plun9"
     },
     {
       "id": 50445401,
       "title": "Scion is back and is going to sell a kei truck in America",
       "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "points": 423,
-      "comments": 288,
+      "points": 475,
+      "comments": 315,
       "by": "NaOH"
-    },
-    {
-      "id": 50447074,
-      "title": "Tracking Anthropic-discovered vulnerabilities",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "points": 370,
-      "comments": 169,
-      "by": "panic"
     },
     {
       "id": 50444129,
       "title": "Starlink Mini 2",
       "url": "https://starlink.com/mini-2",
-      "points": 358,
-      "comments": 362,
+      "points": 414,
+      "comments": 413,
       "by": "robertjfclarke"
+    },
+    {
+      "id": 50447074,
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "points": 400,
+      "comments": 192,
+      "by": "panic"
     },
     {
       "id": 50443824,
       "title": "Synaptics patent claims stop work on DisplayLink drivers",
       "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "points": 354,
-      "comments": 207,
+      "points": 400,
+      "comments": 229,
       "by": "speckx"
     },
     {
       "id": 50443427,
       "title": "Val Town is winding down",
       "url": "https://blog.val.town/winding-down",
-      "points": 352,
-      "comments": 91,
+      "points": 384,
+      "comments": 95,
       "by": "tosh"
     },
     {
       "id": 50443812,
       "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
       "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "points": 326,
-      "comments": 101,
+      "points": 368,
+      "comments": 111,
       "by": "paulirish"
     },
     {
       "id": 50439695,
       "title": "Ableton Live 13",
       "url": "https://www.ableton.com/en/live/",
-      "points": 301,
-      "comments": 312,
+      "points": 311,
+      "comments": 336,
       "by": "phaser"
-    },
-    {
-      "id": 50443090,
-      "title": "AMD's Zen 6 Family: Feeding the Beast",
-      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-      "points": 214,
-      "comments": 82,
-      "by": "pixelpoet"
-    },
-    {
-      "id": 50446246,
-      "title": "Six Math Essentials",
-      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "points": 199,
-      "comments": 34,
-      "by": "digital55"
-    },
-    {
-      "id": 50433216,
-      "title": "Process Explorer for macOS",
-      "url": "https://github.com/microsoft/Procexp-Mac",
-      "points": 175,
-      "comments": 57,
-      "by": "ingve"
-    },
-    {
-      "id": 50443716,
-      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-      "points": 168,
-      "comments": 137,
-      "by": "Yorothegoat"
-    },
-    {
-      "id": 50442225,
-      "title": "Announcing .NET 11",
-      "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
-      "points": 131,
-      "comments": 201,
-      "by": "runesoerensen"
     },
     {
       "id": 50446520,
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "points": 128,
-      "comments": 97,
+      "points": 248,
+      "comments": 207,
       "by": "linolevan"
+    },
+    {
+      "id": 50446246,
+      "title": "Six Math Essentials",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "points": 246,
+      "comments": 44,
+      "by": "digital55"
+    },
+    {
+      "id": 50443090,
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "points": 236,
+      "comments": 93,
+      "by": "pixelpoet"
+    },
+    {
+      "id": 50443716,
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "points": 231,
+      "comments": 162,
+      "by": "Yorothegoat"
+    },
+    {
+      "id": 50433216,
+      "title": "Process Explorer for macOS",
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "points": 207,
+      "comments": 66,
+      "by": "ingve"
+    },
+    {
+      "id": 50449748,
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "points": 199,
+      "comments": 70,
+      "by": "js2"
+    },
+    {
+      "id": 50442225,
+      "title": "Announcing .NET 11",
+      "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+      "points": 193,
+      "comments": 245,
+      "by": "runesoerensen"
     },
     {
       "id": 50448921,
       "title": "A great old-timey game-programming hack (2013)",
       "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "points": 93,
-      "comments": 14,
+      "points": 162,
+      "comments": 31,
       "by": "palsecam"
     },
     {
       "id": 50406224,
       "title": "Hacking the Meta Ray-Ban smartglasses",
       "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-      "points": 89,
-      "comments": 30,
+      "points": 113,
+      "comments": 41,
       "by": "moooooky"
     },
     {
       "id": 50447036,
       "title": "$30M Raised to Redo the CPU",
       "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-      "points": 70,
-      "comments": 59,
+      "points": 101,
+      "comments": 101,
       "by": "shioyama"
-    },
-    {
-      "id": 50449748,
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "points": 62,
-      "comments": 17,
-      "by": "js2"
     },
     {
       "id": 50449275,
       "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
       "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-      "points": 51,
-      "comments": 24,
+      "points": 100,
+      "comments": 62,
       "by": "Metacelsus"
+    },
+    {
+      "id": 50427107,
+      "title": "Why I wrote the BEAM book (2025)",
+      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+      "points": 90,
+      "comments": 14,
+      "by": "zenincognito"
+    },
+    {
+      "id": 50448340,
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "url": "https://tis-100.wincon.dev/",
+      "points": 71,
+      "comments": 11,
+      "by": "fairestvalue"
+    },
+    {
+      "id": 50450007,
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "points": 71,
+      "comments": 32,
+      "by": "d3Xt3r"
+    },
+    {
+      "id": 50414657,
+      "title": "A Compendium of Abandoned Greenhouses",
+      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+      "points": 45,
+      "comments": 2,
+      "by": "ohjeez"
     },
     {
       "id": 50448174,
@@ -188,20 +220,12 @@
       "by": "rdmuser"
     },
     {
-      "id": 50448340,
-      "title": "LLMs Play Zachtronics' TIS-100",
-      "url": "https://tis-100.wincon.dev/",
-      "points": 37,
-      "comments": 5,
-      "by": "fairestvalue"
-    },
-    {
-      "id": 50427107,
-      "title": "Why I wrote the BEAM book (2025)",
-      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
-      "points": 31,
-      "comments": 1,
-      "by": "zenincognito"
+      "id": 50393070,
+      "title": "Why Amstrad chose the 3\" drives",
+      "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
+      "points": 34,
+      "comments": 8,
+      "by": "Skyfall106"
     },
     {
       "id": 50420579,
@@ -212,14 +236,6 @@
       "by": "NWChen"
     },
     {
-      "id": 50450007,
-      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-      "url": "https://github.com/gmkurtzer/ginux",
-      "points": 22,
-      "comments": 3,
-      "by": "d3Xt3r"
-    },
-    {
       "id": 50449080,
       "title": "Hooked on Tuna",
       "url": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
@@ -228,20 +244,36 @@
       "by": "dnetesn"
     },
     {
+      "id": 50449891,
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "points": 20,
+      "comments": 2,
+      "by": "adrbn"
+    },
+    {
+      "id": 50429210,
+      "title": "A ZIP-style Prolog VM for trilog",
+      "url": "https://github.com/no382001/zipc",
+      "points": 15,
+      "comments": 4,
+      "by": "triska"
+    },
+    {
+      "id": 50414004,
+      "title": "\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs",
+      "url": "https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
+      "points": 12,
+      "comments": 0,
+      "by": "gmays"
+    },
+    {
       "id": 50426754,
       "title": "The Assyrian Dictionary of the Oriental Institute of the University of Chicago",
       "url": "https://isac.uchicago.edu/publications/search",
       "points": 9,
       "comments": 1,
       "by": "Bluestein"
-    },
-    {
-      "id": 50414657,
-      "title": "A Compendium of Abandoned Greenhouses",
-      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
-      "points": 4,
-      "comments": 0,
-      "by": "ohjeez"
     }
   ]
 }
