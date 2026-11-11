@@ -1,0 +1,623 @@
+{
+  "date": "2026-11-06",
+  "updated_at": "2026-11-06T23:16:06+00:00",
+  "snapshots": 3,
+  "stories": [
+    {
+      "id": 50378228,
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "points": 2873,
+      "comments": 700,
+      "by": "josemrb"
+    },
+    {
+      "id": 50385272,
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "points": 1455,
+      "comments": 453,
+      "by": "motoroco"
+    },
+    {
+      "id": 50391456,
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "points": 765,
+      "comments": 1590,
+      "by": "PLenz"
+    },
+    {
+      "id": 50389333,
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "points": 671,
+      "comments": 270,
+      "by": "ppmpreetham"
+    },
+    {
+      "id": 50384233,
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "points": 660,
+      "comments": 248,
+      "by": "kuberwastaken"
+    },
+    {
+      "id": 50383740,
+      "title": "Search for everyone",
+      "url": "https://kagi.com/changelog#11820",
+      "points": 630,
+      "comments": 326,
+      "by": "elashri"
+    },
+    {
+      "id": 50383739,
+      "title": "Goodbye from Salon",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "points": 542,
+      "comments": 200,
+      "by": "mkeeter"
+    },
+    {
+      "id": 50390124,
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "points": 505,
+      "comments": 306,
+      "by": "microtonal"
+    },
+    {
+      "id": 50389222,
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "points": 480,
+      "comments": 376,
+      "by": "1659447091"
+    },
+    {
+      "id": 50380810,
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "points": 446,
+      "comments": 325,
+      "by": "monneyboi"
+    },
+    {
+      "id": 50381383,
+      "title": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "points": 423,
+      "comments": 125,
+      "by": "nickswalker"
+    },
+    {
+      "id": 50383057,
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "points": 378,
+      "comments": 218,
+      "by": "rubatuga"
+    },
+    {
+      "id": 50378942,
+      "title": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "points": 369,
+      "comments": 319,
+      "by": "freetonik"
+    },
+    {
+      "id": 50378571,
+      "title": "Download your favourite YouTube videos",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "points": 318,
+      "comments": 147,
+      "by": "surprisetalk"
+    },
+    {
+      "id": 50393758,
+      "title": "Deus Ex",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "points": 314,
+      "comments": 159,
+      "by": "cybersoyuz"
+    },
+    {
+      "id": 50379249,
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "points": 282,
+      "comments": 119,
+      "by": "rwilinski"
+    },
+    {
+      "id": 50392118,
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "points": 279,
+      "comments": 212,
+      "by": "thisisauserid"
+    },
+    {
+      "id": 50386338,
+      "title": "Inkling 2 Small",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "points": 263,
+      "comments": 86,
+      "by": "Philpax"
+    },
+    {
+      "id": 50385870,
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "points": 254,
+      "comments": 112,
+      "by": "randycupertino"
+    },
+    {
+      "id": 50387796,
+      "title": "Pwn.college",
+      "url": "https://pwn.college/",
+      "points": 253,
+      "comments": 41,
+      "by": "tripdout"
+    },
+    {
+      "id": 50388001,
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "points": 248,
+      "comments": 200,
+      "by": "ChrisArchitect"
+    },
+    {
+      "id": 50397429,
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "points": 238,
+      "comments": 54,
+      "by": "theanomaly"
+    },
+    {
+      "id": 50388122,
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "points": 223,
+      "comments": 76,
+      "by": "jonbaer"
+    },
+    {
+      "id": 50379576,
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "points": 220,
+      "comments": 53,
+      "by": "iamnothere"
+    },
+    {
+      "id": 50378508,
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "points": 218,
+      "comments": 27,
+      "by": "frostbyte7"
+    },
+    {
+      "id": 50368208,
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "points": 198,
+      "comments": 17,
+      "by": "schopra909"
+    },
+    {
+      "id": 50389370,
+      "title": "Kugelblitz \u2013 Mac-Native Google Earth Alternative",
+      "url": "https://apps.metaebene.me/en/kugelblitz",
+      "points": 198,
+      "comments": 53,
+      "by": "luoc"
+    },
+    {
+      "id": 50364860,
+      "title": "So my ISP was hijacking my DNS",
+      "url": "https://www.karthihegde.dev/posts/dns_tampering",
+      "points": 196,
+      "comments": 143,
+      "by": "frostbyte7"
+    },
+    {
+      "id": 50394906,
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "points": 185,
+      "comments": 421,
+      "by": "dgellow"
+    },
+    {
+      "id": 50393154,
+      "title": "RIP Cybertruck",
+      "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+      "points": 180,
+      "comments": 227,
+      "by": "voxadam"
+    },
+    {
+      "id": 50377078,
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "points": 172,
+      "comments": 96,
+      "by": "pretext"
+    },
+    {
+      "id": 50394855,
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "points": 159,
+      "comments": 29,
+      "by": "LaSombra"
+    },
+    {
+      "id": 50389420,
+      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "url": "https://worldstrike.fun/",
+      "points": 138,
+      "comments": 84,
+      "by": "n4ze3m"
+    },
+    {
+      "id": 50394569,
+      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+      "url": "https://github.com/anomalyco/rune",
+      "points": 136,
+      "comments": 100,
+      "by": "mik3y"
+    },
+    {
+      "id": 50396064,
+      "title": "We know 15k websites are infected. how do we tell them?",
+      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+      "points": 131,
+      "comments": 110,
+      "by": "speckx"
+    },
+    {
+      "id": 50397219,
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "points": 128,
+      "comments": 65,
+      "by": "SerCe"
+    },
+    {
+      "id": 50397994,
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "points": 126,
+      "comments": 82,
+      "by": "yurivish"
+    },
+    {
+      "id": 50390525,
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "url": "https://jhr.pensoft.net/articles.php?id=9096",
+      "points": 117,
+      "comments": 41,
+      "by": "hitekker"
+    },
+    {
+      "id": 50387738,
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "points": 114,
+      "comments": 24,
+      "by": "gkapur"
+    },
+    {
+      "id": 50391145,
+      "title": "We've built an open-source feature flag server for 11 years",
+      "url": "https://github.com/Unleash/unleash",
+      "points": 93,
+      "comments": 59,
+      "by": "ivarconr"
+    },
+    {
+      "id": 50383294,
+      "title": "Pangram Image 1.0",
+      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+      "points": 90,
+      "comments": 38,
+      "by": "gmays"
+    },
+    {
+      "id": 50381687,
+      "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "points": 89,
+      "comments": 48,
+      "by": "NathanFlurry"
+    },
+    {
+      "id": 50378643,
+      "title": "Show HN: Firenook \u2013 Firebase emulators in Rust: 40\u00d7 faster writes, 10\u00d7 less RAM",
+      "url": "https://firenook.dev/",
+      "points": 88,
+      "comments": 16,
+      "by": "sanjevirau"
+    },
+    {
+      "id": 50389570,
+      "title": "Chomsky and the two cultures of statistical learning (2011)",
+      "url": "https://www.norvig.com/chomsky.html",
+      "points": 88,
+      "comments": 72,
+      "by": "andsoitis"
+    },
+    {
+      "id": 50380979,
+      "title": "The Stacks Project, Formalized in Lean",
+      "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+      "points": 83,
+      "comments": 23,
+      "by": "namanbnsl"
+    },
+    {
+      "id": 50395450,
+      "title": "Devvm.dev: One VM for every project",
+      "url": "https://devvm.dev/",
+      "points": 82,
+      "comments": 44,
+      "by": "luispa"
+    },
+    {
+      "id": 50380704,
+      "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
+      "url": "https://github.com/AGGIB/Stroq",
+      "points": 80,
+      "comments": 29,
+      "by": "agybay_07"
+    },
+    {
+      "id": 50354308,
+      "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+      "points": 80,
+      "comments": 61,
+      "by": "wondersky"
+    },
+    {
+      "id": 50395919,
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "points": 70,
+      "comments": 5,
+      "by": "handfuloflight"
+    },
+    {
+      "id": 50393105,
+      "title": "Ask HN: What in the world is taking Ubuntu so long?",
+      "url": null,
+      "points": 66,
+      "comments": 35,
+      "by": "linsomniac"
+    },
+    {
+      "id": 50392499,
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "points": 66,
+      "comments": 33,
+      "by": "blakesterz"
+    },
+    {
+      "id": 50397017,
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "points": 59,
+      "comments": 23,
+      "by": "fiej"
+    },
+    {
+      "id": 50395869,
+      "title": "Size-It-Up (Game)",
+      "url": "https://magnitudle.com/size-it-up",
+      "points": 57,
+      "comments": 22,
+      "by": "whoishiding"
+    },
+    {
+      "id": 50387546,
+      "title": "Closed AI models dominate the price-performance frontier",
+      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+      "points": 51,
+      "comments": 41,
+      "by": "kevin_hu"
+    },
+    {
+      "id": 50393183,
+      "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+      "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+      "points": 50,
+      "comments": 35,
+      "by": "pseudolus"
+    },
+    {
+      "id": 50396834,
+      "title": "Replit rebuilt its sandbox engine with microVMs",
+      "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+      "points": 44,
+      "comments": 11,
+      "by": "gaplong"
+    },
+    {
+      "id": 50389990,
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "points": 43,
+      "comments": 7,
+      "by": "ersinesen"
+    },
+    {
+      "id": 50382958,
+      "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
+      "url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
+      "points": 41,
+      "comments": 0,
+      "by": "NaOH"
+    },
+    {
+      "id": 50392348,
+      "title": "How octopuses squeeze through too small gaps",
+      "url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
+      "points": 40,
+      "comments": 11,
+      "by": "bookofjoe"
+    },
+    {
+      "id": 50394977,
+      "title": "PyLings: Solve Exercises and Learn Python",
+      "url": "https://github.com/thesayfulla/pylings",
+      "points": 39,
+      "comments": 2,
+      "by": "thesayfulla"
+    },
+    {
+      "id": 50386789,
+      "title": "MoofTCP \u2013 A modern replacement for MacTCP on 68k Macs",
+      "url": "https://github.com/matthewmrichter/mooftcp",
+      "points": 37,
+      "comments": 20,
+      "by": "marcusbasant"
+    },
+    {
+      "id": 50396108,
+      "title": "40C3 halfnarp \u2013 Submit talk preferences to aid scheduling",
+      "url": "https://halfnarp.events.ccc.de",
+      "points": 34,
+      "comments": 7,
+      "by": "hanemile"
+    },
+    {
+      "id": 50393165,
+      "title": "Where Each U.S. State Gets Its Tax Revenue From",
+      "url": "https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/",
+      "points": 31,
+      "comments": 13,
+      "by": "peter_d_sherman"
+    },
+    {
+      "id": 50397176,
+      "title": "My first and last telegram was from Rebecca West",
+      "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
+      "points": 30,
+      "comments": 6,
+      "by": "bryanrasmussen"
+    },
+    {
+      "id": 50388263,
+      "title": "How accurately did science fiction stories predict AI?",
+      "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+      "points": 28,
+      "comments": 32,
+      "by": "jamesjyu"
+    },
+    {
+      "id": 50379221,
+      "title": "Show HN: Waymark \u2013 A workflow engine that compiles jobs instead of replaying",
+      "url": "https://github.com/piercefreeman/waymark",
+      "points": 27,
+      "comments": 5,
+      "by": "icyfox"
+    },
+    {
+      "id": 50397325,
+      "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+      "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+      "points": 22,
+      "comments": 1,
+      "by": "antelocnova"
+    },
+    {
+      "id": 50393089,
+      "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+      "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+      "points": 17,
+      "comments": 1,
+      "by": "goopthink"
+    },
+    {
+      "id": 50397711,
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "points": 14,
+      "comments": 2,
+      "by": "rexbee"
+    },
+    {
+      "id": 50399569,
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "points": 12,
+      "comments": 2,
+      "by": "Aldipower"
+    },
+    {
+      "id": 50392787,
+      "title": "MTG-I2 First Images",
+      "url": "https://www.eumetsat.int/mtg-i2-first-images",
+      "points": 10,
+      "comments": 1,
+      "by": "N19PEDL2"
+    },
+    {
+      "id": 50399657,
+      "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+      "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+      "points": 7,
+      "comments": 1,
+      "by": "doener"
+    },
+    {
+      "id": 50393235,
+      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+      "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "points": 5,
+      "comments": 0,
+      "by": "jbspeakr"
+    },
+    {
+      "id": 50368291,
+      "title": "Annie Ernaux still feels like an outsider",
+      "url": "https://www.vulture.com/article/annie-ernaux-interview-french-protests-nobel-prize.html",
+      "points": 4,
+      "comments": 0,
+      "by": "Caiero"
+    },
+    {
+      "id": 50381512,
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "points": 0,
+      "comments": 0,
+      "by": "rooppal"
+    },
+    {
+      "id": 50391342,
+      "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "points": 0,
+      "comments": 0,
+      "by": "chitianhao"
+    },
+    {
+      "id": 50395043,
+      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "points": 0,
+      "comments": 0,
+      "by": "Old_Thrashbarg"
+    }
+  ]
+}
