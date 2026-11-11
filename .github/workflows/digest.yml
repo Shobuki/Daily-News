@@ -2,7 +2,7 @@ name: Daily digest
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "17 */3 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,10 +16,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
-      # Small offset while testing the schedule frequently.
+      # Spread capture times over about 10 minutes.
       - name: Random start offset
         if: github.event_name == 'schedule'
-        run: sleep $(( RANDOM % 30 ))
+        run: sleep $(( RANDOM % 600 ))
 
       - uses: actions/checkout@v4
 
