@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
-  "updated_at": "2026-11-19T11:39:55+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-19T20:43:19+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50547374,
@@ -28,12 +28,28 @@
       "by": "gyre007"
     },
     {
+      "id": 50519231,
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "points": 622,
+      "comments": 261,
+      "by": "harrisonpage"
+    },
+    {
       "id": 50545958,
       "title": "DNS resolvers are the wrong place to fight piracy",
       "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
       "points": 611,
       "comments": 226,
       "by": "ritzaco"
+    },
+    {
+      "id": 50558533,
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "points": 603,
+      "comments": 287,
+      "by": "liotier"
     },
     {
       "id": 50548021,
@@ -44,12 +60,60 @@
       "by": "gmays"
     },
     {
+      "id": 50562754,
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "points": 546,
+      "comments": 868,
+      "by": "wslh"
+    },
+    {
       "id": 50547777,
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
       "points": 372,
       "comments": 165,
       "by": "Betelbuddy"
+    },
+    {
+      "id": 50556287,
+      "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "points": 346,
+      "comments": 141,
+      "by": "jdns"
+    },
+    {
+      "id": 50556533,
+      "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "points": 344,
+      "comments": 40,
+      "by": "fessguid"
+    },
+    {
+      "id": 50562113,
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "points": 306,
+      "comments": 142,
+      "by": "Terretta"
+    },
+    {
+      "id": 50562262,
+      "title": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "points": 290,
+      "comments": 105,
+      "by": "speckx"
+    },
+    {
+      "id": 50560822,
+      "title": "Everything you need to survive and rebuild society",
+      "url": "https://lastbook.org/",
+      "points": 286,
+      "comments": 154,
+      "by": "tejohnso"
     },
     {
       "id": 50546914,
@@ -66,6 +130,14 @@
       "points": 281,
       "comments": 95,
       "by": "runesoerensen"
+    },
+    {
+      "id": 50558906,
+      "title": "Someone reported java4shell bug in September 2026",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "points": 266,
+      "comments": 71,
+      "by": "notmine1337"
     },
     {
       "id": 50550415,
@@ -92,6 +164,22 @@
       "by": "ExMachina73"
     },
     {
+      "id": 50557870,
+      "title": "What's New in PHP 8.6",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "points": 245,
+      "comments": 119,
+      "by": "netol"
+    },
+    {
+      "id": 50563148,
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "points": 240,
+      "comments": 89,
+      "by": "cybermango"
+    },
+    {
       "id": 50553225,
       "title": "LLM assisted reverse engineering",
       "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
@@ -108,12 +196,28 @@
       "by": "zerocool0101"
     },
     {
+      "id": 50557537,
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "points": 223,
+      "comments": 60,
+      "by": "ghostfoxgod"
+    },
+    {
       "id": 50551046,
       "title": "DaisyRose-27B",
       "url": "https://www.radixark.com/blog/daisyrose-27b",
       "points": 222,
       "comments": 81,
       "by": "de_sty"
+    },
+    {
+      "id": 50547048,
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+      "points": 218,
+      "comments": 82,
+      "by": "cowlevel"
     },
     {
       "id": 50548161,
@@ -124,6 +228,14 @@
       "by": "raj-shekhar"
     },
     {
+      "id": 50557661,
+      "title": "Do not buy RAM, compress",
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "points": 185,
+      "comments": 157,
+      "by": "Ecno92"
+    },
+    {
       "id": 50547583,
       "title": "F-22 Next-Generation micro\u2013Data Transfer Cartridge (mDTC)",
       "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
@@ -132,20 +244,28 @@
       "by": "birdboat00"
     },
     {
-      "id": 50556533,
-      "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
-      "url": "https://kapteko.com/15-million-webservers/",
-      "points": 181,
-      "comments": 23,
-      "by": "fessguid"
+      "id": 50561508,
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "points": 172,
+      "comments": 157,
+      "by": "datascientist"
     },
     {
-      "id": 50556287,
-      "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
-      "url": "https://verialabs.com/ruby2shell/",
-      "points": 167,
-      "comments": 63,
-      "by": "jdns"
+      "id": 50559719,
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "points": 171,
+      "comments": 41,
+      "by": "krthr"
+    },
+    {
+      "id": 50563066,
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "points": 171,
+      "comments": 15,
+      "by": "cybermango"
     },
     {
       "id": 50549493,
@@ -156,6 +276,14 @@
       "by": "vighneshiyer"
     },
     {
+      "id": 50536950,
+      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
+      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+      "points": 143,
+      "comments": 107,
+      "by": "bookofjoe"
+    },
+    {
       "id": 50525260,
       "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
       "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
@@ -164,12 +292,28 @@
       "by": "kusha"
     },
     {
+      "id": 50561515,
+      "title": "Show HN: Cornhole News \u2013 A Hacker News inspired site for news across the Midwest",
+      "url": "https://cornholenews.news",
+      "points": 132,
+      "comments": 62,
+      "by": "cornholemedia"
+    },
+    {
       "id": 50554010,
       "title": "Software companies are trying to kill home computing?",
       "url": "https://lateblt.livejournal.com/526188.html",
       "points": 128,
       "comments": 81,
       "by": "sammatilda"
+    },
+    {
+      "id": 50560955,
+      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+      "url": "https://maccus.fr/en/cooling-overtaking-heating/",
+      "points": 126,
+      "comments": 88,
+      "by": "robtherobber"
     },
     {
       "id": 50523377,
@@ -188,12 +332,28 @@
       "by": "codekarate"
     },
     {
+      "id": 50559179,
+      "title": "Unblockable communication with gravity",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "points": 99,
+      "comments": 34,
+      "by": "rbanffy"
+    },
+    {
       "id": 50554374,
       "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
       "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
       "points": 93,
       "comments": 28,
       "by": "seizethecheese"
+    },
+    {
+      "id": 50562636,
+      "title": "Chrome AI features wasting much bandwidth",
+      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "points": 91,
+      "comments": 32,
+      "by": "speckx"
     },
     {
       "id": 50557716,
@@ -204,28 +364,28 @@
       "by": "illidan1000"
     },
     {
-      "id": 50557870,
-      "title": "What's New in PHP 8.6",
-      "url": "https://www.php.net/releases/8.6/en.php",
-      "points": 72,
-      "comments": 37,
-      "by": "netol"
-    },
-    {
-      "id": 50557537,
-      "title": "Distributed, high-performance blob storage on SQLite",
-      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-      "points": 71,
-      "comments": 8,
-      "by": "ghostfoxgod"
-    },
-    {
       "id": 50554009,
       "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
       "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
       "points": 64,
       "comments": 21,
       "by": "alpb"
+    },
+    {
+      "id": 50564159,
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "points": 63,
+      "comments": 32,
+      "by": "dev1one1"
+    },
+    {
+      "id": 50562320,
+      "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "points": 56,
+      "comments": 56,
+      "by": "D_R_Farrell"
     },
     {
       "id": 50542441,
@@ -236,12 +396,12 @@
       "by": "akbarnama"
     },
     {
-      "id": 50557661,
-      "title": "Do not buy RAM, compress",
-      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
-      "points": 47,
-      "comments": 31,
-      "by": "Ecno92"
+      "id": 50561170,
+      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+      "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+      "points": 50,
+      "comments": 22,
+      "by": "ohjeez"
     },
     {
       "id": 50549188,
@@ -308,6 +468,22 @@
       "by": "nervai"
     },
     {
+      "id": 50518596,
+      "title": "I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)",
+      "url": "https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062",
+      "points": 25,
+      "comments": 3,
+      "by": "gregsadetsky"
+    },
+    {
+      "id": 50564366,
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "points": 24,
+      "comments": 30,
+      "by": "sandslash"
+    },
+    {
       "id": 50554935,
       "title": "Unreal Tournament 2004 in the Browser",
       "url": "https://ut2004.dev/",
@@ -316,12 +492,12 @@
       "by": "TheAceOfHearts"
     },
     {
-      "id": 50519231,
-      "title": "Garage Door Spam",
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "points": 16,
-      "comments": 3,
-      "by": "harrisonpage"
+      "id": 50517783,
+      "title": "Show HN: Neoma P-CAM \u2013 Sub-millisecond physical equilibrium and 64-spin Ising",
+      "url": "https://github.com/neoma-pcam/pcam-live",
+      "points": 11,
+      "comments": 0,
+      "by": "neoma001"
     },
     {
       "id": 50554908,
@@ -348,6 +524,14 @@
       "by": "ri4dh"
     },
     {
+      "id": 50521083,
+      "title": "Adding Fortran Support to LLDB (GSoC 2026)",
+      "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
+      "points": 9,
+      "comments": 4,
+      "by": "JDevlieghere"
+    },
+    {
       "id": 50554973,
       "title": "Show HN: ADE Index \u2013 a sourced and ranked index of 975 agentic coding tools",
       "url": "https://adeindex.com",
@@ -362,6 +546,14 @@
       "points": 7,
       "comments": 0,
       "by": "baby"
+    },
+    {
+      "id": 50517657,
+      "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+      "url": "https://www.tisonkun.io/posts/ai-repair-program/",
+      "points": 6,
+      "comments": 0,
+      "by": "tison"
     }
   ]
 }
